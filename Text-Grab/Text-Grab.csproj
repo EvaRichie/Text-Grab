@@ -17,7 +17,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.0" />
-		<PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+		<PackageReference Include="System.Drawing.Common" Version="5.0.3" />
 	</ItemGroup>
 
 	<ItemGroup>
